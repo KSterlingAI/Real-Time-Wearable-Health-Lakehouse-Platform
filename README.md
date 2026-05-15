@@ -1,5 +1,10 @@
 # 🏥 Healthcare Wearable Analytics Lakehouse
 
+![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineering-red)
+![PySpark](https://img.shields.io/badge/PySpark-Big%20Data-orange)
+![Delta Lake](https://img.shields.io/badge/Delta-Lake-blue)
+![Healthcare Analytics](https://img.shields.io/badge/Healthcare-Analytics-green)
+
 Modern healthcare analytics pipeline built with Databricks, PySpark, and Delta Lake using Medallion Architecture.
 
 This project processes wearable sensor and ECG healthcare data to generate analytics-ready datasets, KPI dashboards, and health activity insights.
